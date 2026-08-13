@@ -55,7 +55,7 @@ My current primary interests are Full-Stack Development and AWS, while I also ha
 💻 Languages
 
 <p align="left">
-<img src="https://skillicons.dev/icons?i=javascript,python,java,cpp,c,php,html,css" />
+<img src="https://skillicons.dev/icons?i=cpp,c,python,java,javascript,php,html,css" />
 </p>
 
 🌐 Frontend
