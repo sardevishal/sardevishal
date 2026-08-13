@@ -20,7 +20,7 @@ My current primary interests are Full-Stack Development and AWS, while I also ha
 
 🎓 B.E. Information Technology — SPPU
 
-📊 CGPA: 9.18 / 10
+📊 CGPA: 8.98 / 10
 
 💻 Focus: Full-Stack Development
 
