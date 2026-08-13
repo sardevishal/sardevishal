@@ -35,6 +35,7 @@ My current primary interests are Full-Stack Development and AWS, while I also ha
 🎯 Current Focus
 
 🌐 Full-Stack Development:
+
    React.js • Next.js • JavaScript • Tailwind CSS
    Node.js • Express.js • REST APIs
    MongoDB • MySQL • Supabase • SQLite
@@ -45,11 +46,13 @@ My current primary interests are Full-Stack Development and AWS, while I also ha
    Elastic Beanstalk • NAT Gateway
    Docker • Kubernetes • Cloud Deployment
 
-⚙️ Backend & Architecture: 
+⚙️ Backend & Architecture:
+
    Node.js • Express.js • FastAPI • Flask
    REST APIs • Authentication • Database Design
 
-🛠️ Development: 
+🛠️ Development:
+
    Git • GitHub • Postman • VS Code
 
 🛠️ Tech Stack
@@ -106,33 +109,44 @@ Full Stack Development Intern — Tech e-Innovation IT Services
 Jan 2026 – Apr 2026 | Pune, Maharashtra
 
 • Developed responsive web applications using React.js, HTML, CSS, and JavaScript while collaborating with the development team.
+
 • Built and integrated RESTful APIs using Node.js and Express.js for efficient frontend–backend communication.
 
 • Worked with MongoDB for CRUD operations, database design, and data management.
+
 • Participated in debugging, testing, feature implementation, and deployment throughout the software development lifecycle.
+
 • Used Git and GitHub for version control, collaborative development, and code management.
+
 • Collaborated in an Agile environment, participating in sprint planning, feature development, code reviews, and testing.
 
 Cyber Security Intern — 1Stop.ai
 Mar 2025 – Apr 2025 | Bengaluru, Karnataka
 
 • Assisted with network traffic analysis and vulnerability assessment.
+
 • Worked with Wireshark, Nmap, and SIEM platforms for security analysis.
+
 • Supported incident response and threat analysis activities.
+
 • Contributed to security policy updates and system-hardening initiatives.
 
 Campus Ambassador — MyJobGrow
 Apr 2025 – Sep 2025 | Pune, Maharashtra
 
 • Promoted platform awareness through campus outreach and social media campaigns.
+
 • Organized student-focused activities and engagement initiatives.
+
 • Developed communication, leadership, and marketing skills.
 
 Software Development Intern — TechnoWings IT Solutions
 Jun 2023 – Jul 2023 | Solapur, Maharashtra
 
 • Developed 2 Android application prototypes and 2+ Python mini-projects.
+
 • Improved programming logic through hands-on assignments and debugging.
+
 • Contributed to internal demonstration applications used for training and client showcases.
 
 🚀 Featured Projects
