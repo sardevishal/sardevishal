@@ -1,6 +1,6 @@
-# 👋 Hi, I'm Vishal Sarde
+👋 Hi, I'm Vishal Sarde
 
-### 🚀 Full-Stack Developer | AI/ML Enthusiast | Cybersecurity Explorer
+🚀 Full-Stack Developer | AWS & Cloud Enthusiast
 
 <p align="left">
   <a href="https://github.com/sardevishal">
@@ -14,251 +14,219 @@
   </a>
 </p>
 
-I'm a **Final-Year Information Technology Engineering student** passionate about building practical and scalable solutions across **Full-Stack Development, Artificial Intelligence, Cloud Computing, and Cybersecurity**.
+I'm a Final-Year Information Technology Engineering student focused on building modern, scalable web applications and deploying them on the cloud.
 
-I enjoy turning ideas into working products, participating in hackathons, exploring new technologies, and solving real-world problems through software.
+My current primary interests are Full-Stack Development and AWS, while I also have hands-on experience with AI/ML, Cybersecurity, APIs, Databases, and DevOps.
 
-* 🎓 **B.E. Information Technology** — SPPU
-* 📊 **CGPA:** 9.18 / 10
-* 💻 Full-Stack Development
-* 🤖 AI/ML & Generative AI
-* 🔐 Cybersecurity & Network Security
-* ☁️ AWS, Docker & Cloud Deployment
-* 🏆 National-Level Hackathon Finalist
-* 📍 Maharashtra, India
+🎓 B.E. Information Technology — SPPU
 
----
+📊 CGPA: 9.18 / 10
 
-## 🚀 What I Do
+💻 Focus: Full-Stack Development
 
-```text
+☁️ Focus: AWS & Cloud Deployment
+
+🔧 Interested in scalable backend systems, REST APIs and cloud-native applications
+
+🏆 National-Level Hackathon Finalist
+
+📍 Maharashtra, India
+
+🎯 Current Focus
+
 🌐 Full-Stack Development
-   React.js • Next.js • Node.js • Express.js • REST APIs • MongoDB • MySQL • Supabase
+   React.js • Next.js • JavaScript • Tailwind CSS
+   Node.js • Express.js • REST APIs
+   MongoDB • MySQL • Supabase • SQLite
 
-🤖 AI / Machine Learning
-   Python • Scikit-learn • NLP • LLMs • OpenAI • Ollama • Groq
-   Pandas • NumPy • Random Forest • Isolation Forest
+☁️ AWS & Cloud
+   EC2 • S3 • VPC • IAM • Load Balancer
+   Elastic Beanstalk • NAT Gateway
+   Docker • Kubernetes • Cloud Deployment
 
-🔐 Cybersecurity
-   Network Traffic Analysis • Threat Detection • Vulnerability Assessment
-   Wireshark • Nmap • PyShark • Scapy • SIEM
+⚙️ Backend & Architecture
+   Node.js • Express.js • FastAPI • Flask
+   REST APIs • Authentication • Database Design
 
-☁️ Cloud & DevOps
-   AWS • EC2 • S3 • VPC • Load Balancer • Docker • Kubernetes
-   CI/CD • GitHub • Vercel
+🛠️ Development
+   Git • GitHub • Postman • VS Code
 
-🎨 Frontend & Design
-   React.js • Tailwind CSS • JavaScript • HTML • CSS
-   Bootstrap • Figma • Streamlit
-```
+🛠️ Tech Stack
 
----
-
-# 🛠️ Tech Stack
-
-### 👨‍💻 Programming Languages
+💻 Languages
 
 <p align="left">
-<img src="https://skillicons.dev/icons?i=c,cpp,java,python,javascript,php,html,css" />
+<img src="https://skillicons.dev/icons?i=javascript,python,java,cpp,c,php,html,css" />
 </p>
 
-### 🌐 Frontend
+🌐 Frontend
 
 <p align="left">
 <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,bootstrap" />
 </p>
 
-### ⚙️ Backend & APIs
+⚙️ Backend
 
 <p align="left">
 <img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,flask" />
 </p>
 
-### 🗄️ Databases
+🗄️ Databases
 
 <p align="left">
 <img src="https://skillicons.dev/icons?i=mongodb,mysql,sqlite,supabase" />
 </p>
 
-### ☁️ Cloud, DevOps & Deployment
+☁️ AWS & DevOps
 
 <p align="left">
 <img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,git,github,vercel" />
 </p>
 
-### 🤖 AI / ML & Data
+AWS: EC2 S3 VPC IAM Load Balancer NAT Gateway Elastic Beanstalk
 
-<p align="left">
-<img src="https://skillicons.dev/icons?i=python" />
-</p>
+🤖 AI / ML
 
-**Libraries & Tools:**
-`NumPy` `Pandas` `Scikit-learn` `Matplotlib` `OpenAI` `Ollama` `Groq` `Streamlit`
+Python • Scikit-learn • Pandas • NumPy • OpenAI • Ollama • Groq • Streamlit
 
-### 🔐 Cybersecurity
+🔐 Cybersecurity
 
-`Wireshark` • `Nmap` • `PyShark` • `Scapy` • `SIEM` • `Network Analysis` • `Threat Detection` • `Vulnerability Assessment`
+Wireshark • Nmap • PyShark • Scapy • SIEM • Network Analysis • Threat Detection
 
-### 🎨 Tools
+🧰 Tools
 
-`VS Code` • `Figma` • `Canva` • `Postman` • `Git` • `GitHub`
+VS Code • Postman • Figma • Canva • Git • GitHub
 
----
+💼 Experience
 
-# 💼 Experience
+🔐 Cyber Security Intern — 1Stop.ai
 
-### 🔐 Cyber Security Intern — 1Stop.ai
+March 2025 – April 2025 | Bengaluru, Karnataka
 
-**March 2025 – April 2025 | Bengaluru, Karnataka**
+Assisted with network traffic analysis and vulnerability assessment.
 
-* Assisted with network traffic analysis and vulnerability assessment.
-* Worked with security tools including **Wireshark, Nmap and SIEM platforms**.
-* Supported incident response and threat analysis activities.
-* Contributed to security policy updates and system-hardening initiatives.
+Worked with Wireshark, Nmap and SIEM platforms.
 
-### 📢 Campus Ambassador — MyJobGrow
+Supported incident response and threat analysis activities.
 
-**April 2025 – September 2025 | Pune, Maharashtra**
+Contributed to security policy updates and system-hardening initiatives.
 
-* Promoted platform awareness through campus outreach and social media campaigns.
-* Organized student-focused activities and engagement initiatives.
-* Developed communication, leadership and marketing skills.
+📢 Campus Ambassador — MyJobGrow
 
-### 💻 Software Development Intern — TechnoWings IT Solutions
+April 2025 – September 2025 | Pune, Maharashtra
 
-**June 2023 – July 2023 | Solapur, Maharashtra**
+Promoted platform awareness through campus outreach and social media campaigns.
 
-* Developed **2 Android application prototypes**.
-* Built **2+ Python mini-projects** under mentorship.
-* Improved programming logic through debugging and hands-on development.
-* Contributed to internal demonstration applications.
+Organized student-focused engagement activities.
 
----
+Developed leadership, communication and marketing skills.
 
-# 🚀 Featured Projects
+💻 Software Development Intern — TechnoWings IT Solutions
 
-## 🛡️ SentinelTLS — Real-Time Encrypted Traffic Analyzer
+June 2023 – July 2023 | Solapur, Maharashtra
 
-**Cybersecurity • AI/ML • Network Security**
+Developed 2 Android application prototypes.
 
-> Real-time encrypted traffic analysis and threat detection platform.
+Built 2+ Python mini-projects under mentorship.
 
-**Tech:** `Python` `FastAPI` `Streamlit` `PyShark` `Scikit-learn` `SQLite` `Isolation Forest` `Random Forest` `LLM`
+Improved programming logic through debugging and hands-on assignments.
 
-* Analyzes encrypted network traffic in real time.
-* Uses machine-learning models for anomaly and threat detection.
-* Provides explainable AI-based insights into detected threats.
-* Uses **PyShark** for packet and traffic analysis.
-* Built a dashboard using **Streamlit**.
-* Developed as part of **PVG HackHub 24-Hour Hackathon**.
+🚀 Featured Projects
 
-🏆 **Top 50 Finalist among 400+ teams**
-🥈 **2nd Rank — Cybersecurity Category**
+⚙️ ECOFLOW — Engineering Change Order Management
 
----
+Full-Stack Web Application
 
-## ⚙️ ECOFLOW — Engineering Change Order Management
+React.js Node.js Express.js REST APIs MongoDB
 
-**Full-Stack Web Application**
+Engineering change-order management platform.
 
-**Tech:** `React.js` `Node.js` `Express.js` `REST APIs` `MongoDB`
+Developed responsive frontend interfaces and user workflows.
 
-* Developed an engineering change-order management platform.
-* Designed responsive frontend interfaces and user workflows.
-* Contributed as a **Frontend Developer**.
-* Selected as a finalist project at the **Odoo × Adani University National Hackathon**.
+Contributed as a Frontend Developer.
 
-🏆 **Finalist — Odoo × Adani University Hackathon**
-👥 **4500+ participating teams**
+Finalist project at the Odoo × Adani University National Hackathon.
 
----
+🏆 National-Level Hackathon Finalist
 
-## 🤖 AI-Powered Resume Analyzer
+🛡️ SentinelTLS — Real-Time Encrypted Traffic Analyzer
 
-**Full-Stack AI Application**
+Cybersecurity • AI/ML • Network Security
 
-**Tech:** `React.js` `Flask` `MySQL` `AWS Textract` `OpenAI GPT` `NLP`
+Python FastAPI Streamlit PyShark Scikit-learn SQLite
 
-* AI-powered resume analysis and ATS evaluation platform.
-* Extracts resume information using **AWS Textract**.
-* Uses LLM-based analysis to provide personalized feedback.
-* Generates career-path and upskilling recommendations.
-* Designed to help candidates improve resumes for specific job roles.
+Real-time encrypted traffic analysis and threat detection platform.
 
-🚧 **Currently in Development**
+Uses Isolation Forest and Random Forest for anomaly/threat detection.
 
----
+Provides explainable AI-based insights into detected threats.
 
-## 🎓 EduMate — AI-Powered Study Companion
+Developed during PVG HackHub 24-Hour Hackathon.
 
-**AI • Education • Full-Stack Development**
+🏆 Top 50 Finalist among 400+ teams
+🥈 2nd Rank — Cybersecurity Category
 
-**Tech:** `React.js` `Tailwind CSS` `Node.js` `Express.js` `AI/LLM`
+🤖 AI-Powered Resume Analyzer
 
-* AI-powered study assistant for students.
-* PDF-to-study-plan generation.
-* AI chatbot for doubt solving.
-* Quick revision cards and personalized learning assistance.
+Full-Stack AI Application — In Progress
 
----
+React.js Flask MySQL AWS Textract OpenAI GPT
 
-## 🔗 Blockchain-Based Website Safety Verifier
+AI-powered resume analysis and ATS evaluation platform.
 
-**AI • Blockchain • Browser Security**
+Uses AWS Textract for document parsing.
 
-* Browser extension designed to identify potentially unsafe websites.
-* Combines AI-based analysis with blockchain concepts.
-* Focused on website safety and credential-misuse detection.
+Uses LLM-based analysis to generate personalized feedback.
 
-🏆 **5th Rank — Build-A-Thon National Hackathon**
+Provides career-path and upskilling recommendations.
 
----
+🎓 Alumni Connect Web Portal
 
-## 🎓 Alumni Connect Web Portal
+Full-Stack Web Application
 
-**Full-Stack Web Application**
+HTML CSS JavaScript PHP MySQL XAMPP
 
-**Tech:** `HTML` `CSS` `JavaScript` `PHP` `MySQL` `XAMPP`
+Alumni interaction and event-management platform.
 
-* Developed an alumni interaction and event-management platform.
-* Implemented authentication and database integration.
-* Created responsive interfaces for alumni and students.
-* Enabled communication between current students and alumni.
+Implemented authentication and database integration.
 
----
+Built responsive interfaces for alumni and students.
 
-# 🏆 Achievements
+Enabled communication between alumni and current students.
 
-* 🥇 **PVG HackHub** — Top 50 Finalist among 400+ teams
-* 🥈 **PVG HackHub** — 2nd Rank in Cybersecurity
-* 🏆 **Odoo × Adani University Hackathon** — National-Level Finalist
-* 🥇 **Build-A-Thon** — 5th Rank nationally
-* 🏅 **Adobe India Hackathon 2026** — Certificate of Participation
-* 👨‍💼 **Lead Coordinator — Talent Hunt**, managing 200+ participants
-* 📜 **HackerRank SQL Basic Certification**
-* 📜 **HackerRank SQL Intermediate Certification**
+🏆 Achievements
 
----
+🏆 Odoo × Adani University Hackathon — National-Level Finalist
 
-# 🎓 Education
+🥈 PVG HackHub — 2nd Rank in Cybersecurity
 
-### JSPM's Jayawantrao Sawant College of Engineering
+🏅 PVG HackHub — Top 50 Finalist among 400+ teams
 
-**Bachelor of Engineering — Information Technology**
+🥇 Build-A-Thon — 5th Rank nationally
+
+🏅 Adobe India Hackathon — Certificate of Participation
+
+👨‍💼 Lead Coordinator — Talent Hunt — Managed 200+ participants
+
+📜 HackerRank SQL Basic & Intermediate Certifications
+
+🎓 Education
+
+JSPM's Jayawantrao Sawant College of Engineering
+
+Bachelor of Engineering — Information Technology
 Savitribai Phule Pune University (SPPU)
 
-📊 **CGPA: 9.18 / 10**
+CGPA: 9.18 / 10
 
-### SVERI's College of Engineering (Polytechnic)
+SVERI's College of Engineering (Polytechnic)
 
-**Diploma — Information Technology**
+Diploma — Information Technology
 MSBTE
 
-📊 **Percentage: 89.56%**
+Percentage: 89.56%
 
----
-
-# 📈 GitHub Analytics
+📊 GitHub Analytics
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=sardevishal&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" height="180"/>
@@ -269,47 +237,37 @@ MSBTE
   <img src="https://nirzak-streak-stats.vercel.app/?user=sardevishal&theme=tokyonight&hide_border=true" />
 </p>
 
----
-
-# 📊 Contribution Graph
+📈 Contribution Activity
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=sardevishal&theme=tokyo-night&hide_border=true" />
 </p>
 
----
-
-# 🐍 Contribution Snake
+🐍 Contribution Snake
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/sardevishal/sardevishal/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake"/>
 </p>
 
----
+📚 Currently Learning
 
-# 💡 Currently Learning
+🚀 Advanced Full-Stack Development
 
-* 🚀 Advanced **MERN Stack Development**
-* 🤖 **Generative AI & LLM Applications**
-* 🔐 **Advanced Cybersecurity & Network Security**
-* ☁️ **AWS Cloud Architecture**
-* 🐳 **Docker & Kubernetes**
-* ⚙️ **CI/CD & DevOps**
-* 🧠 **Machine Learning & Explainable AI**
-* 🔌 **Scalable REST API Development**
+☁️ AWS Cloud Architecture & Deployment
 
----
+🐳 Docker & Kubernetes
 
-# 🤝 Let's Connect
+⚙️ CI/CD & DevOps
 
-I'm always interested in:
+🏗️ Scalable Backend Architecture
 
-* 💻 Full-Stack Development
-* 🤖 AI/ML Projects
-* 🔐 Cybersecurity
-* ☁️ Cloud & DevOps
-* 🚀 Hackathons
-* 🤝 Open-Source Collaboration
+🔐 Cloud Security & Best Practices
+
+🤝 Let's Connect
+
+I'm open to collaborating on:
+
+Full-Stack Applications • AWS/Cloud Projects • AI-powered Web Apps • Open Source • Hackathons
 
 <p align="center">
   <a href="https://www.linkedin.com/in/vishal-sarde-679b63328/">
@@ -323,12 +281,10 @@ I'm always interested in:
   </a>
 </p>
 
----
-
 <p align="center">
-  <b>⚡ Build. Learn. Break. Secure. Repeat. ⚡</b>
+  <b>⚡ Build. Deploy. Scale. Repeat. ⚡</b>
 </p>
 
 <p align="center">
-  <i>Thanks for visiting my profile! ⭐ Feel free to explore my repositories.</i>
+  <i>Thanks for visiting my profile! ⭐</i>
 </p>
