@@ -1,18 +1,334 @@
-# 💫 About Me:
-Vishal Sarde <br>8983632732 | vishalsarde2@gmail.com | LinkedIn | GitHub | LeetCode <br>Tuljapur, Dharashiv, Maharashtra 413601 <br>EDUCATION <br>• JSPMs Jayawantrao Sawant College of Engineering (JSCOE) <br>Bachelor of Engineering in Information Technology, SPPU <br>• CGPA: 9.18/10 <br>• SVERI’s College of Engineering (Polytechnic) <br>Diploma in Information Technology, MSBTE <br>• Percentage: 89.56% <br>EXPERIENCE <br>• 1Stop.ai <br>Cyber Security Intern <br>Pune, Maharashtra <br>Aug 2024 – May 2027 <br>Pandharpur, Solapur <br>July 2021 – May 2024 <br>Bengaluru, Karnataka <br>March 2025 – April 2025 <br>• Supported incident response and threat analysis efforts using industry-standard security tools including Wireshark, <br>Nmap, and SIEM platforms <br>• Contributed to security policy updates and system hardening initiatives to strengthen organisational cybersecurity <br>posture <br>• Assisted in network traffic analysis and vulnerability assessment to identify potential security threats <br>• MyJobGrow <br>Campus Ambassador <br>Pune, Maharashtra <br>April 2025 – September 2025 <br>• Promoted brand awareness on campus through strategic social media campaigns and student outreach, increasing <br>platform engagement by organising targeted events <br>• Built and maintained strong peer networks while developing leadership, marketing, and communication skills <br>• TechnoWings IT Solutions <br>Software Development Intern <br>Solapur, Maharashtra <br>June 2023 – July 2023 <br>• Developed 2 Android application prototypes and completed 2+ Python-based mini projects under mentorship <br>• Improved code efficiency and logic-building capabilities through hands-on assignments and debugging challenges <br>• Contributed to internal demo applications used for client showcase and training purposes <br>PROJECTS <br>• AI-Powered Resume Analyzer <br>Full-Stack AI Application (In Progress) <br>React.js, Flask, MySQL, AWS Textract, OpenAI GPT <br>• Building an intelligent resume analyzer leveraging GPT, OCR, and NLP to evaluate resumes and <br>generate ATS-based feedback <br>• Implementing personalised career path recommendations and upskilling suggestions based on AI-driven analysis <br>• Integrating AWS Textract for document parsing and MySQL database for data management <br>• Blockchain-Based Website Safety Verifier – 5th Rank, Build-A-ThonAI, Blockchain, Browser <br>Extension <br>National Hackathon Achievement <br>• Developed a blockchain-based browser extension using AI to verify website safety and detect credential misuse <br>• Achieved 5th rank among national participants in Build-A-Thon hackathon <br>• Combined AI algorithms with blockchain technology to create a privacy-focused security solution <br>• Alumni Connect Web Portal <br>Full-Stack Web Development <br>HTML, CSS, JavaScript, PHP, MySQL <br>• Built a comprehensive alumni portal for SVERI’s College of Engineering to facilitate secure alumni interaction <br>and event management <br>• Implemented user authentication, database integration, and responsive frontend design using the XAMPP stack <br>• Enabled seamless communication between alumni and current students through an intuitive web interface <br>TECHNICAL SKILLS <br>• Programming Languages: Python, Java, C, C++, JavaScript, PHP, HTML, CSS, SQL <br>• Technologies & Frameworks: React.js, Flask, Android Development, Blockchain, Git, REST APIs <br>• Developer Tools: GitHub, VS Code, Visual Studio, XAMPP, PythonAnywhere, AWS, MySQL <br>• Security Tools: Wireshark, Nmap, SIEM, Network Analysis, Incident Response <br>• Databases: MySQL, RDBMS <br>• Core Competencies: Problem-Solving, Cloud Computing, DevOps, CI/CD, AI/ML, Full-Stack Development <br>ACHIEVEMENTS & LEADERSHIP <br>• Build-A-Thon National Hackathon: Secured 5th rank among national participants for blockchain-based security <br>solution <br>• Adobe India Hackathon: Participated and received Certificate of Participation <br>• Lead Coordinator - Talent Hunt: Organised SVERI’s Talent Hunt event featuring Mirror Code, Tech Quiz, <br>and Poster Presentation competitions, managing logistics and team coordination for 200+ participants (Feb 2024) <br>• HackerRank Certifications: SQL Basic and SQL Intermediate certified 
+# 👋 Hi, I'm Vishal Sarde
 
+### 🚀 Full-Stack Developer | AI/ML Enthusiast | Cybersecurity Explorer
 
-## 🌐 Socials:
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://canary.discord.com/channels/@vishal_sarde) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/vishal-sarde-679b63328/) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@https://www.youtube.com/channel/UCnKT35g4BPF7aYcTXWY-4aA) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:vishalsarde2@gmail.com) 
+<p align="left">
+  <a href="https://github.com/sardevishal">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+  <a href="https://www.linkedin.com/in/vishal-sarde-679b63328/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:vishalsarde2@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+</p>
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Query](https://img.shields.io/badge/-React%20Query-FF4154?style=for-the-badge&logo=react%20query&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=sardevishal&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=sardevishal&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=sardevishal&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+I'm a **Final-Year Information Technology Engineering student** passionate about building practical and scalable solutions across **Full-Stack Development, Artificial Intelligence, Cloud Computing, and Cybersecurity**.
+
+I enjoy turning ideas into working products, participating in hackathons, exploring new technologies, and solving real-world problems through software.
+
+* 🎓 **B.E. Information Technology** — SPPU
+* 📊 **CGPA:** 9.18 / 10
+* 💻 Full-Stack Development
+* 🤖 AI/ML & Generative AI
+* 🔐 Cybersecurity & Network Security
+* ☁️ AWS, Docker & Cloud Deployment
+* 🏆 National-Level Hackathon Finalist
+* 📍 Maharashtra, India
 
 ---
-[![](https://visitcount.itsvg.in/api?id=sardevishal&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 🚀 What I Do
+
+```text
+🌐 Full-Stack Development
+   React.js • Next.js • Node.js • Express.js • REST APIs • MongoDB • MySQL • Supabase
+
+🤖 AI / Machine Learning
+   Python • Scikit-learn • NLP • LLMs • OpenAI • Ollama • Groq
+   Pandas • NumPy • Random Forest • Isolation Forest
+
+🔐 Cybersecurity
+   Network Traffic Analysis • Threat Detection • Vulnerability Assessment
+   Wireshark • Nmap • PyShark • Scapy • SIEM
+
+☁️ Cloud & DevOps
+   AWS • EC2 • S3 • VPC • Load Balancer • Docker • Kubernetes
+   CI/CD • GitHub • Vercel
+
+🎨 Frontend & Design
+   React.js • Tailwind CSS • JavaScript • HTML • CSS
+   Bootstrap • Figma • Streamlit
+```
+
+---
+
+# 🛠️ Tech Stack
+
+### 👨‍💻 Programming Languages
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=c,cpp,java,python,javascript,php,html,css" />
+</p>
+
+### 🌐 Frontend
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,bootstrap" />
+</p>
+
+### ⚙️ Backend & APIs
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,flask" />
+</p>
+
+### 🗄️ Databases
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,sqlite,supabase" />
+</p>
+
+### ☁️ Cloud, DevOps & Deployment
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,git,github,vercel" />
+</p>
+
+### 🤖 AI / ML & Data
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=python" />
+</p>
+
+**Libraries & Tools:**
+`NumPy` `Pandas` `Scikit-learn` `Matplotlib` `OpenAI` `Ollama` `Groq` `Streamlit`
+
+### 🔐 Cybersecurity
+
+`Wireshark` • `Nmap` • `PyShark` • `Scapy` • `SIEM` • `Network Analysis` • `Threat Detection` • `Vulnerability Assessment`
+
+### 🎨 Tools
+
+`VS Code` • `Figma` • `Canva` • `Postman` • `Git` • `GitHub`
+
+---
+
+# 💼 Experience
+
+### 🔐 Cyber Security Intern — 1Stop.ai
+
+**March 2025 – April 2025 | Bengaluru, Karnataka**
+
+* Assisted with network traffic analysis and vulnerability assessment.
+* Worked with security tools including **Wireshark, Nmap and SIEM platforms**.
+* Supported incident response and threat analysis activities.
+* Contributed to security policy updates and system-hardening initiatives.
+
+### 📢 Campus Ambassador — MyJobGrow
+
+**April 2025 – September 2025 | Pune, Maharashtra**
+
+* Promoted platform awareness through campus outreach and social media campaigns.
+* Organized student-focused activities and engagement initiatives.
+* Developed communication, leadership and marketing skills.
+
+### 💻 Software Development Intern — TechnoWings IT Solutions
+
+**June 2023 – July 2023 | Solapur, Maharashtra**
+
+* Developed **2 Android application prototypes**.
+* Built **2+ Python mini-projects** under mentorship.
+* Improved programming logic through debugging and hands-on development.
+* Contributed to internal demonstration applications.
+
+---
+
+# 🚀 Featured Projects
+
+## 🛡️ SentinelTLS — Real-Time Encrypted Traffic Analyzer
+
+**Cybersecurity • AI/ML • Network Security**
+
+> Real-time encrypted traffic analysis and threat detection platform.
+
+**Tech:** `Python` `FastAPI` `Streamlit` `PyShark` `Scikit-learn` `SQLite` `Isolation Forest` `Random Forest` `LLM`
+
+* Analyzes encrypted network traffic in real time.
+* Uses machine-learning models for anomaly and threat detection.
+* Provides explainable AI-based insights into detected threats.
+* Uses **PyShark** for packet and traffic analysis.
+* Built a dashboard using **Streamlit**.
+* Developed as part of **PVG HackHub 24-Hour Hackathon**.
+
+🏆 **Top 50 Finalist among 400+ teams**
+🥈 **2nd Rank — Cybersecurity Category**
+
+---
+
+## ⚙️ ECOFLOW — Engineering Change Order Management
+
+**Full-Stack Web Application**
+
+**Tech:** `React.js` `Node.js` `Express.js` `REST APIs` `MongoDB`
+
+* Developed an engineering change-order management platform.
+* Designed responsive frontend interfaces and user workflows.
+* Contributed as a **Frontend Developer**.
+* Selected as a finalist project at the **Odoo × Adani University National Hackathon**.
+
+🏆 **Finalist — Odoo × Adani University Hackathon**
+👥 **4500+ participating teams**
+
+---
+
+## 🤖 AI-Powered Resume Analyzer
+
+**Full-Stack AI Application**
+
+**Tech:** `React.js` `Flask` `MySQL` `AWS Textract` `OpenAI GPT` `NLP`
+
+* AI-powered resume analysis and ATS evaluation platform.
+* Extracts resume information using **AWS Textract**.
+* Uses LLM-based analysis to provide personalized feedback.
+* Generates career-path and upskilling recommendations.
+* Designed to help candidates improve resumes for specific job roles.
+
+🚧 **Currently in Development**
+
+---
+
+## 🎓 EduMate — AI-Powered Study Companion
+
+**AI • Education • Full-Stack Development**
+
+**Tech:** `React.js` `Tailwind CSS` `Node.js` `Express.js` `AI/LLM`
+
+* AI-powered study assistant for students.
+* PDF-to-study-plan generation.
+* AI chatbot for doubt solving.
+* Quick revision cards and personalized learning assistance.
+
+---
+
+## 🔗 Blockchain-Based Website Safety Verifier
+
+**AI • Blockchain • Browser Security**
+
+* Browser extension designed to identify potentially unsafe websites.
+* Combines AI-based analysis with blockchain concepts.
+* Focused on website safety and credential-misuse detection.
+
+🏆 **5th Rank — Build-A-Thon National Hackathon**
+
+---
+
+## 🎓 Alumni Connect Web Portal
+
+**Full-Stack Web Application**
+
+**Tech:** `HTML` `CSS` `JavaScript` `PHP` `MySQL` `XAMPP`
+
+* Developed an alumni interaction and event-management platform.
+* Implemented authentication and database integration.
+* Created responsive interfaces for alumni and students.
+* Enabled communication between current students and alumni.
+
+---
+
+# 🏆 Achievements
+
+* 🥇 **PVG HackHub** — Top 50 Finalist among 400+ teams
+* 🥈 **PVG HackHub** — 2nd Rank in Cybersecurity
+* 🏆 **Odoo × Adani University Hackathon** — National-Level Finalist
+* 🥇 **Build-A-Thon** — 5th Rank nationally
+* 🏅 **Adobe India Hackathon 2026** — Certificate of Participation
+* 👨‍💼 **Lead Coordinator — Talent Hunt**, managing 200+ participants
+* 📜 **HackerRank SQL Basic Certification**
+* 📜 **HackerRank SQL Intermediate Certification**
+
+---
+
+# 🎓 Education
+
+### JSPM's Jayawantrao Sawant College of Engineering
+
+**Bachelor of Engineering — Information Technology**
+Savitribai Phule Pune University (SPPU)
+
+📊 **CGPA: 9.18 / 10**
+
+### SVERI's College of Engineering (Polytechnic)
+
+**Diploma — Information Technology**
+MSBTE
+
+📊 **Percentage: 89.56%**
+
+---
+
+# 📈 GitHub Analytics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=sardevishal&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sardevishal&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
+</p>
+
+<p align="center">
+  <img src="https://nirzak-streak-stats.vercel.app/?user=sardevishal&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+# 📊 Contribution Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sardevishal&theme=tokyo-night&hide_border=true" />
+</p>
+
+---
+
+# 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/sardevishal/sardevishal/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake"/>
+</p>
+
+---
+
+# 💡 Currently Learning
+
+* 🚀 Advanced **MERN Stack Development**
+* 🤖 **Generative AI & LLM Applications**
+* 🔐 **Advanced Cybersecurity & Network Security**
+* ☁️ **AWS Cloud Architecture**
+* 🐳 **Docker & Kubernetes**
+* ⚙️ **CI/CD & DevOps**
+* 🧠 **Machine Learning & Explainable AI**
+* 🔌 **Scalable REST API Development**
+
+---
+
+# 🤝 Let's Connect
+
+I'm always interested in:
+
+* 💻 Full-Stack Development
+* 🤖 AI/ML Projects
+* 🔐 Cybersecurity
+* ☁️ Cloud & DevOps
+* 🚀 Hackathons
+* 🤝 Open-Source Collaboration
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/vishal-sarde-679b63328/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin"/>
+  </a>
+  <a href="mailto:vishalsarde2@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail"/>
+  </a>
+  <a href="https://github.com/sardevishal">
+    <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github"/>
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <b>⚡ Build. Learn. Break. Secure. Repeat. ⚡</b>
+</p>
+
+<p align="center">
+  <i>Thanks for visiting my profile! ⭐ Feel free to explore my repositories.</i>
+</p>
