@@ -36,20 +36,15 @@ My current primary interests are Full-Stack Development and AWS, while I also ha
 
 🌐 Full-Stack Development:
 
-   React.js • Next.js • JavaScript • Tailwind CSS
-   Node.js • Express.js • REST APIs
-   MongoDB • MySQL • Supabase • SQLite
+   React.js • Next.js • JavaScript • Tailwind CSS • Node.js • Express.js • REST APIs • MongoDB • MySQL • Supabase • SQLite
 
 ☁️ AWS & Cloud:
 
-   EC2 • S3 • VPC • IAM • Load Balancer
-   Elastic Beanstalk • NAT Gateway
-   Docker • Kubernetes • Cloud Deployment
+   EC2 • S3 • VPC • IAM • Load Balancer • Elastic Beanstalk • NAT Gateway • Docker • Kubernetes • Cloud Deployment
 
 ⚙️ Backend & Architecture:
 
-   Node.js • Express.js • FastAPI • Flask
-   REST APIs • Authentication • Database Design
+   Node.js • Express.js • FastAPI • Flask • REST APIs • Authentication • Database Design
 
 🛠️ Development:
 
