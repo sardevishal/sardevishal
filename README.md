@@ -34,12 +34,13 @@ My current primary interests are Full-Stack Development and AWS, while I also ha
 
 🎯 Current Focus
 
-🌐 Full-Stack Development: 
+🌐 Full-Stack Development:
    React.js • Next.js • JavaScript • Tailwind CSS
    Node.js • Express.js • REST APIs
    MongoDB • MySQL • Supabase • SQLite
 
-☁️ AWS & Cloud: 
+☁️ AWS & Cloud:
+
    EC2 • S3 • VPC • IAM • Load Balancer
    Elastic Beanstalk • NAT Gateway
    Docker • Kubernetes • Cloud Deployment
@@ -106,6 +107,7 @@ Jan 2026 – Apr 2026 | Pune, Maharashtra
 
 • Developed responsive web applications using React.js, HTML, CSS, and JavaScript while collaborating with the development team.
 • Built and integrated RESTful APIs using Node.js and Express.js for efficient frontend–backend communication.
+
 • Worked with MongoDB for CRUD operations, database design, and data management.
 • Participated in debugging, testing, feature implementation, and deployment throughout the software development lifecycle.
 • Used Git and GitHub for version control, collaborative development, and code management.
