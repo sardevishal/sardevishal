@@ -34,21 +34,21 @@ My current primary interests are Full-Stack Development and AWS, while I also ha
 
 🎯 Current Focus
 
-🌐 Full-Stack Development
+🌐 Full-Stack Development: 
    React.js • Next.js • JavaScript • Tailwind CSS
    Node.js • Express.js • REST APIs
    MongoDB • MySQL • Supabase • SQLite
 
-☁️ AWS & Cloud
+☁️ AWS & Cloud: 
    EC2 • S3 • VPC • IAM • Load Balancer
    Elastic Beanstalk • NAT Gateway
    Docker • Kubernetes • Cloud Deployment
 
-⚙️ Backend & Architecture
+⚙️ Backend & Architecture: 
    Node.js • Express.js • FastAPI • Flask
    REST APIs • Authentication • Database Design
 
-🛠️ Development
+🛠️ Development: 
    Git • GitHub • Postman • VS Code
 
 🛠️ Tech Stack
@@ -83,7 +83,9 @@ My current primary interests are Full-Stack Development and AWS, while I also ha
 <img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,git,github,vercel" />
 </p>
 
-AWS: EC2 S3 VPC IAM Load Balancer NAT Gateway Elastic Beanstalk
+☁️ AWS
+
+EC2 • S3 • VPC • IAM • Load Balancer • NAT Gateway • Elastic Beanstalk
 
 🤖 AI / ML
 
@@ -99,37 +101,37 @@ VS Code • Postman • Figma • Canva • Git • GitHub
 
 💼 Experience
 
-🔐 Cyber Security Intern — 1Stop.ai
+Full Stack Development Intern — Tech e-Innovation IT Services
+Jan 2026 – Apr 2026 | Pune, Maharashtra
 
-March 2025 – April 2025 | Bengaluru, Karnataka
+• Developed responsive web applications using React.js, HTML, CSS, and JavaScript while collaborating with the development team.
+• Built and integrated RESTful APIs using Node.js and Express.js for efficient frontend–backend communication.
+• Worked with MongoDB for CRUD operations, database design, and data management.
+• Participated in debugging, testing, feature implementation, and deployment throughout the software development lifecycle.
+• Used Git and GitHub for version control, collaborative development, and code management.
+• Collaborated in an Agile environment, participating in sprint planning, feature development, code reviews, and testing.
 
-Assisted with network traffic analysis and vulnerability assessment.
+Cyber Security Intern — 1Stop.ai
+Mar 2025 – Apr 2025 | Bengaluru, Karnataka
 
-Worked with Wireshark, Nmap and SIEM platforms.
+• Assisted with network traffic analysis and vulnerability assessment.
+• Worked with Wireshark, Nmap, and SIEM platforms for security analysis.
+• Supported incident response and threat analysis activities.
+• Contributed to security policy updates and system-hardening initiatives.
 
-Supported incident response and threat analysis activities.
+Campus Ambassador — MyJobGrow
+Apr 2025 – Sep 2025 | Pune, Maharashtra
 
-Contributed to security policy updates and system-hardening initiatives.
+• Promoted platform awareness through campus outreach and social media campaigns.
+• Organized student-focused activities and engagement initiatives.
+• Developed communication, leadership, and marketing skills.
 
-📢 Campus Ambassador — MyJobGrow
+Software Development Intern — TechnoWings IT Solutions
+Jun 2023 – Jul 2023 | Solapur, Maharashtra
 
-April 2025 – September 2025 | Pune, Maharashtra
-
-Promoted platform awareness through campus outreach and social media campaigns.
-
-Organized student-focused engagement activities.
-
-Developed leadership, communication and marketing skills.
-
-💻 Software Development Intern — TechnoWings IT Solutions
-
-June 2023 – July 2023 | Solapur, Maharashtra
-
-Developed 2 Android application prototypes.
-
-Built 2+ Python mini-projects under mentorship.
-
-Improved programming logic through debugging and hands-on assignments.
+• Developed 2 Android application prototypes and 2+ Python mini-projects.
+• Improved programming logic through hands-on assignments and debugging.
+• Contributed to internal demonstration applications used for training and client showcases.
 
 🚀 Featured Projects
 
@@ -217,7 +219,7 @@ JSPM's Jayawantrao Sawant College of Engineering
 Bachelor of Engineering — Information Technology
 Savitribai Phule Pune University (SPPU)
 
-CGPA: 9.18 / 10
+CGPA: 8.98 / 10
 
 SVERI's College of Engineering (Polytechnic)
 
@@ -229,7 +231,7 @@ Percentage: 89.56%
 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sardevishal&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" height="180"/>
+  <img src="`https://github-readme-stats.vercel.app/api?username=sardevishal&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" height="180"`/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sardevishal&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
 </p>
 
